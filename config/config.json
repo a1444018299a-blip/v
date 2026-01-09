@@ -3,7 +3,7 @@
   "enable_sd_api": true,
   "enable_sd_api_说明": "启用 SD WebUI 兼容 API (/sdapi/v1/*)",
   
-  "enable_gui": true,
+  "enable_gui": false,
   "enable_gui_说明": "启用桌面 GUI 窗口",
   
   "disable_thinking_mode": false,
