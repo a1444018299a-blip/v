@@ -1,7 +1,8 @@
 # 核心依赖
 fastapi
-uvicorn
-httpx
+uvicorn[standard]
+httpx[socks,http2]
 websockets
 pydantic
 playwright
+
