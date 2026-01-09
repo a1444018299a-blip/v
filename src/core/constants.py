@@ -5,7 +5,7 @@
 """
 
 # API和WebSocket服务端口
-PORT_API = 56163
+PORT_API = 2156
 PORT_WS = 28881
 
 # 最大并发上游请求数（Semaphore 限流）
